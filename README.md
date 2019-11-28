@@ -1,2 +1,1 @@
-# myfirstrepository
-Ini pertama kali saya membuat repository di github
+Praktikum-web-HTML-CSS-Kadek-Rai-
